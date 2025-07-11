@@ -5,7 +5,7 @@ The purpose of the study is to analyse job data, specifically for data analysis 
 # Background
 The source of the dataset is [ Python for Data Analytics ]('lukebarousse/data_jobs'). It contains insights such as job title, salaries, locations and skills.
 
-### The questions I wanted to ask through my SQL queries were :
+### The questions I wanted to ask were :
 1. What are the median salary for the top job titles in the United States ?
 
 2. What are the most in-demand skills for data nalysts, data engineers and data scientists ?
